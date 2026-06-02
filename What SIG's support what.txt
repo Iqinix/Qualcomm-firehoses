@@ -1,4 +1,4 @@
-The SIG from /SIG's/Xiaomi/SIG #1/sig.bin supports the following:
+The SIG from /Xiaomi/SIG's/SIG #1/sig.bin supports the following:
 
 Poco X3 NFC (Surya)
 Poco F4 (Munch)
@@ -19,6 +19,6 @@ Redmi 7 (Onclite)
 Redmi 7A (Pine)
 Redmi 8 (Olive)
 
-The SIG's from /SIG's/Xiaomi/QLM/ support the following:
+The SIG's from /Xiaomi/SIG's/QLM/ support the following:
 
 It is unknown what these SIG's support however they should support the majority of the authskip/bypass firehoses
