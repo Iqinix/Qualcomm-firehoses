@@ -3,7 +3,6 @@ Qualcomm firehoses from many popular brands
 
 
 This github repository is specifically for qualcomm firehoses.
-I will also include some Sigs, a guide on how to use them, drivers and the EDL tools
 
 All xiaomi firehoses have been checked by the Xiaomi firehose checker bot on TG
 
