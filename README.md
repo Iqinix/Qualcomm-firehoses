@@ -18,6 +18,7 @@ The /Xiaomi/No Auth/SNAPDRAGON 8 GEN 2.melf and /Xiaomi/No Auth/SNAPDRAGON 8 GEN
 What sigs support what:
 
 The SIG from /SIG's/Xiaomi/SIG #1/sig.bin supports the following:
+
 Poco X3 NFC (Surya)
 Poco F4 (Munch)
 Xiaomi Pad 5 Pro (Dagu)
@@ -38,4 +39,5 @@ Redmi 7A (Pine)
 Redmi 8 (Olive)
 
 The SIG's from /SIG's/Xiaomi/QLM/ support the following:
+
 It is unknown what these SIG's support however they should support the majority of the authskip/bypass firehoses
