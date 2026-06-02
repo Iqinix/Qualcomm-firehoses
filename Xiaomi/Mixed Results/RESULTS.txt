@@ -1,0 +1,404 @@
+8G1:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: aee901a18570a41108b93d1040f820fd
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: WaipioLAA
+🔡 Common names:
+8G1_UNTESTED.melf,mi8gen1.melf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+8G2:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: 7737ce106fc4f1c197ea72c249081de6
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: KailuaLAA
+🔡 Common names:
+8G2_UNTESTED.melf,mi8gen2.melf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+8G3:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: 2fadf36d48f8e040f16a8e91f7311006
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: PakalaLAA
+🔡 Common names:
+8G3_UNTESTED.melf,mi8gen3 (1).melf,mi8gen3.melf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+BS2P:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: 823b9659bf064f6315bc06a7bf4e6b1c
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: SDM855LA
+🔡 Common names:
+BS_2.elf,BS_2_PRO.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+BS3:
+📝 Firehose analysis completed:
+
+#️⃣ MD5: aa7666aa1b228d4603a0b424b49295f1
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: 8250LAB
+🔡 Common names:
+BS_3.elf
+
+📌 Verdict: This file probably won't work.
+
+✅ Follow @GRGTool and @firehosefinder
+
+BS3P:
+📝 Firehose analysis completed:
+
+#️⃣ MD5: 9d62bb9c34edfb6f14a9fd6643602eda
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: 8250LAA
+🔡 Common names:
+BS_3_PRO.elf
+
+📌 Verdict: This file probably won't work.
+
+✅ Follow @GRGTool and @firehosefinder
+
+BS3S:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: aa7666aa1b228d4603a0b424b49295f1
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: 8250LAB
+🔡 Common names:
+BS_3.elf,BS_3S.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+BS4:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: aa7666aa1b228d4603a0b424b49295f1
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: 8250LAB
+🔡 Common names:
+BS_3.elf,BS_3S.elf,BS_4.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+BS4S:
+📝 Firehose analysis completed:
+
+#️⃣ MD5: 6b3fb0748db9a61b5e310d1507f047af
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ℹ️ Xiaomi EDL Auth code detected
+🛡️ Security: 🔥 Vulnerable (Auth skip is possible)
+📲 Target SoC: 8250LAA
+🔡 Common names:
+BS_4S.elf
+
+📌 Verdict: This file probably won't work.
+
+✅ Follow @GRGTool and @firehosefinder
+
+BS HELLO:
+📝 Firehose analysis completed:
+
+#️⃣ MD5: 65899fd2c359f21d3e7c8fb759d09286
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: SDM845LA
+🔡 Common names:
+BS_HELLO.elf
+
+📌 Verdict: This file probably won't work.
+
+✅ Follow @GRGTool and @firehosefinder
+
+MI5:
+📝 Firehose analysis completed:
+
+#️⃣ MD5: b232f05c23cb23b3598cb9311ccecbba
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: M8996LAB
+🔡 Common names:
+MI_5.elf
+
+📌 Verdict: This file probably won't work.
+
+✅ Follow @GRGTool and @firehosefinder
+
+MI5S:
+📝 Firehose analysis completed:
+
+#️⃣ MD5: f16f8c114c4dfc1d66b822674f4c5f9f
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: M8996LAB
+🔡 Common names:
+MI_5S.elf
+
+📌 Verdict: This file probably won't work.
+
+✅ Follow @GRGTool and @firehosefinder
+
+MI5S PLUS:
+📝 Firehose analysis completed:
+
+#️⃣ MD5: 03622174f2483ac36702c260a640d5bd
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: M8996LAB
+🔡 Common names:
+MI_5S_PLUS.elf
+
+📌 Verdict: This file probably won't work.
+
+✅ Follow @GRGTool and @firehosefinder
+
+MI N2:
+📝 Firehose analysis completed:
+
+#️⃣ MD5: 8714882c487f75f1424f326a662fb5fe
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: M8996LAB
+🔡 Common names:
+MI_NOTE_2.elf
+
+📌 Verdict: This file probably won't work.
+
+✅ Follow @GRGTool and @firehosefinder
+
+MI N10 LITE:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: b77a9d4be29b313cd158f25aacf97960
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: RennellLA
+🔡 Common names:
+9pro.elf,MI_NOTE_10_LITE.elf,Qualcomm_SM7125_Snapdragon_720G.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+MI MIX:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: 8714882c487f75f1424f326a662fb5fe
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: M8996LAB
+🔡 Common names:
+MIX.elf,MI_NOTE_2.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+POCO F3:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: 6b3fb0748db9a61b5e310d1507f047af
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ℹ️ Xiaomi EDL Auth code detected
+🛡️ Security: 🔥 Vulnerable (Auth skip is possible)
+📲 Target SoC: 8250LAA
+🔡 Common names:
+BS_4S.elf,MI_11X.elf,MI_12X.elf,POCO_F3.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+POCO F4 GT:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: 6b3fb0748db9a61b5e310d1507f047af
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ℹ️ Xiaomi EDL Auth code detected
+🛡️ Security: 🔥 Vulnerable (Auth skip is possible)
+📲 Target SoC: 8250LAA
+🔡 Common names:
+BS_4S.elf,MI_11X.elf,MI_12X.elf,POCO_F3.elf,POCO_F4_GT.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+POCO M2:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: b77a9d4be29b313cd158f25aacf97960
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: RennellLA
+🔡 Common names:
+9pro.elf,MI_NOTE_10_LITE.elf,POCO_M2.elf,Qualcomm_SM7125_Snapdragon_720G.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+REDMI K40:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: 6b3fb0748db9a61b5e310d1507f047af
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ℹ️ Xiaomi EDL Auth code detected
+🛡️ Security: 🔥 Vulnerable (Auth skip is possible)
+📲 Target SoC: 8250LAA
+🔡 Common names:
+BS_4S.elf,MI_11X.elf,MI_12X.elf,POCO_F3.elf,POCO_F4_GT.elf,RDMI_K40.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+REDMI K40S
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: 6b3fb0748db9a61b5e310d1507f047af
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ℹ️ Xiaomi EDL Auth code detected
+🛡️ Security: 🔥 Vulnerable (Auth skip is possible)
+📲 Target SoC: 8250LAA
+🔡 Common names:
+BS_4S.elf,MI_11X.elf,MI_12X.elf,POCO_F3.elf,POCO_F4_GT.elf,RDMI_K40.elf,RDMI_K40S.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+SNAPDRAGON 720G:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: b77a9d4be29b313cd158f25aacf97960
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: RennellLA
+🔡 Common names:
+9pro.elf,MI_NOTE_10_LITE.elf,POCO M2.elf,POCO_M2.elf,Qualcomm_SM7125_Snapdragon_720G.elf,Redmi_Note_10_Lite.elf,Redmi_Note_9_Pro.elf,Redmi_Note_9_Pro_max.elf,Redmi_Note_9s.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+REDMI NOTE 9 PRO:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: b77a9d4be29b313cd158f25aacf97960
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: RennellLA
+🔡 Common names:
+9pro.elf,MI_NOTE_10_LITE.elf,POCO M2.elf,POCO_M2.elf,Qualcomm_SM7125_Snapdragon_720G.elf,Redmi_Note_10_Lite.elf,Redmi_Note_9_Pro.elf,Redmi_Note_9_Pro_max.elf,Redmi_Note_9s.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+REDMI NOTE 9 PRO MAX:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: b77a9d4be29b313cd158f25aacf97960
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: RennellLA
+🔡 Common names:
+9pro.elf,MI_NOTE_10_LITE.elf,POCO M2.elf,POCO_M2.elf,Qualcomm_SM7125_Snapdragon_720G.elf,Redmi_Note_10_Lite.elf,Redmi_Note_9_Pro.elf,Redmi_Note_9_Pro_max.elf,Redmi_Note_9s.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+REDMI NOTE 9S:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: b77a9d4be29b313cd158f25aacf97960
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: RennellLA
+🔡 Common names:
+9pro.elf,MI_NOTE_10_LITE.elf,POCO M2.elf,POCO_M2.elf,Qualcomm_SM7125_Snapdragon_720G.elf,Redmi_Note_10_Lite.elf,Redmi_Note_9_Pro.elf,Redmi_Note_9_Pro_max.elf,Redmi_Note_9s.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+REDMI NOTE 10 LITE:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: b77a9d4be29b313cd158f25aacf97960
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ✅ No EDL Auth code (engineering / no-auth loader)
+🛡️ Security: ✅ No vulnerability since no auth code
+📲 Target SoC: RennellLA
+🔡 Common names:
+9pro.elf,MI_NOTE_10_LITE.elf,POCO M2.elf,POCO_M2.elf,Qualcomm_SM7125_Snapdragon_720G.elf,Redmi_Note_10_Lite.elf,Redmi_Note_9_Pro.elf,Redmi_Note_9_Pro_max.elf,Redmi_Note_9s.elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
+
+REDMI NOTE 6 PRO:
+📝 Firehose analysis (loaded from db, file is known):
+
+#️⃣ MD5: 17bff92e1123bff34f3e07fd85a51db2
+🔑 Signature: 🤔 Unknown. File may not work.
+🔒 Auth: ℹ️ Xiaomi EDL Auth code detected
+🛡️ Security: 🔥 Vulnerable (Auth skip is possible)
+📲 Target SoC: Sdm660LA
+🔡 Common names:
+prog_emmc_firehose_Sdm660_lite.elf,rn 6 pro (lite).elf
+
+📌 Verdict: This file should work fine.
+
+✅ Follow @GRGTool and @firehosefinder
