@@ -9,6 +9,9 @@ This github repository is specifically for qualcomm firehoses.
 
 All xiaomi firehoses have been checked by the Xiaomi firehose checker bot on TG
 
+!!! PLEASE NOTE !!!
+
+All samsung firehoses that have "BIT: #" are loaders that original names did not include a bit OR have no specified bit
 
 
 !!! WARNINGS !!!!
