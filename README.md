@@ -1,5 +1,6 @@
 # Qualcomm-firehoses
 Qualcomm firehoses from many popular brands (Currently only xiaomi at the moment because i cannot be arsed to use githubs shitty upload bullshit no more)
+Ignore the fact that there are a shit ton of commits, i dont know how to use github like at all </3
 
 You can find more firehoses on [iqinixfh](https://iqinixfh.nopajeets.lol/Qualcomm%20general/firehose,%20loader)
 
